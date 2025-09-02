@@ -2,9 +2,6 @@
 
 This is a modern, responsive landing page for **Élan Vital**, a fictional aesthetics and wellness therapy boutique. The application is built with React, TypeScript, and Vite, and styled with Tailwind CSS.
 
-## Live Demo
-
-[Link to live demo](https://your-live-demo-link.com)
 
 ## Features
 
@@ -49,7 +46,6 @@ To get a local copy up and running, follow these simple steps.
     ```sh
     npm run dev
     ```
-    The application will be available at `http://localhost:5173`.
 
 ## Project Structure
 
