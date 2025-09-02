@@ -3,6 +3,13 @@
 This is a modern, responsive landing page for **Élan Vital**, a fictional aesthetics and wellness therapy boutique. The application is built with React, TypeScript, and Vite, and styled with Tailwind CSS.
 
 
+## Screenshots
+
+| Home Page | Booking Page | Service Page | Contact Page |
+| :---: | :---: | :---: | :---: |
+| ![Home Page](screenshots/Élan%20Vital%20–%20Aesthetics%20-mh.jpg) | ![Booking Page](screenshots/screencapture-localhost-5173-booking-2025-09-01-14_30_41.png) | ![Service Page](screenshots/screencapture-localhost-5173-service-deep-tissue-massage-2025-09-01-14_31_07.png) | ![Contact Page](screenshots/screencapture-localhost-5173-contact-2025-09-01-14_31_35.png) |
+
+
 ## Features
 
 *   **Responsive Design:** Fully responsive layout that works on all devices, from mobile phones to desktops.
